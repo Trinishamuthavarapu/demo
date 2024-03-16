@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Trinishamuthavarapu/demo.git/static/css/main.75db3490.css",
-    "main.js": "/Trinishamuthavarapu/demo.git/static/js/main.358ab1e3.js",
-    "static/js/453.8237b3b5.chunk.js": "/Trinishamuthavarapu/demo.git/static/js/453.8237b3b5.chunk.js",
-    "index.html": "/Trinishamuthavarapu/demo.git/index.html",
-    "main.75db3490.css.map": "/Trinishamuthavarapu/demo.git/static/css/main.75db3490.css.map",
-    "main.358ab1e3.js.map": "/Trinishamuthavarapu/demo.git/static/js/main.358ab1e3.js.map",
-    "453.8237b3b5.chunk.js.map": "/Trinishamuthavarapu/demo.git/static/js/453.8237b3b5.chunk.js.map"
+    "main.css": "/demo/static/css/main.cc0ba3d0.css",
+    "main.js": "/demo/static/js/main.eb9bc3ac.js",
+    "static/js/453.03ebb89f.chunk.js": "/demo/static/js/453.03ebb89f.chunk.js",
+    "index.html": "/demo/index.html",
+    "main.cc0ba3d0.css.map": "/demo/static/css/main.cc0ba3d0.css.map",
+    "main.eb9bc3ac.js.map": "/demo/static/js/main.eb9bc3ac.js.map",
+    "453.03ebb89f.chunk.js.map": "/demo/static/js/453.03ebb89f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.75db3490.css",
-    "static/js/main.358ab1e3.js"
+    "static/css/main.cc0ba3d0.css",
+    "static/js/main.eb9bc3ac.js"
   ]
 }
